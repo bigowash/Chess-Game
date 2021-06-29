@@ -1,5 +1,5 @@
 # Chess-Game
-Demonstrating Object Orientented Programming
+Demonstrating Object Oriented Programming
 
 Can this be seen
 trial
