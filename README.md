@@ -1,5 +1,4 @@
 # Chess-Game
 Demonstrating Object Oriented Programming
 
-Can this be seen
-trial
+A personal project of mine, to validate my python skills. 
